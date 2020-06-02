@@ -1,0 +1,27 @@
+{
+  "name": "homeapi",
+  "version": "1.0.0",
+  "description": "my homeapi",
+  "main": "index.js",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "keyv": "^4.0.1",
+    "twilio": "^3.44.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschiffler/homeapi.git"
+  },
+  "author": "Andreas Schiffler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschiffler/homeapi/issues"
+  },
+  "homepage": "https://github.com/aschiffler/homeapi#readme"
+}
